@@ -46,3 +46,13 @@ function radixSort(arr){
 }
 
 console.log(radixSort([12,1,123,1234,123456,12,12345678]))
+
+/* 
+    # RadixSort has a time complexity of O(nk) in all
+      cases;
+      where n- length of the array;
+            k - number of digits
+    # And has a time complexity of O(n+k)
+
+
+*/
